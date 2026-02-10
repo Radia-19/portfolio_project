@@ -1,0 +1,22 @@
+ <footer id="footer" class="footer position-relative light-background">
+
+    <div class="container">
+      <div class="copyright text-center ">
+        <p>&copy;<span>Copyright</span> <strong class="px-1 sitename">Portfolio</strong>| <span>All Rights Reserved</span></p>
+      </div>
+      <div class="credits"> Designed by <a href="#">Radia</a>
+      </div>
+    </div>
+
+  </footer>
+
+
+
+
+
+
+
+<!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
