@@ -33,12 +33,12 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="assets/image/IMG-20260130-WA0216-Picsart-AiImageEnhancer.jpg" class="img-fluid" alt="">
+            <img src="assets/image/IMG-20260130-WA0216-Picsart-AiImageEnhancer.jpg" class="img-fluid" alt="" style="height: 420px; float: right; margin-right: 20px;">
           </div>
           <div class="col-lg-8 content">
             <h2>Junior Web Developer<i class="bi bi-exclamation-lg"></i></h2>
             <p class="fst-italic py-3" style="text-align: justify;">
-             Junior Web Developer with an artistic sensibility and natural curiosity, enjoying the process of turning ideas into functional and visually thoughtful web applications.
+             With an artistic sensibility and natural curiosity, enjoying the process of turning ideas into functional and visually thoughtful web applications.
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -210,7 +210,7 @@
             </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Skills <i class="bi bi-award"></i></h3>
-            <div class="resume-item">
+            <div class="resume-item  pb-0">
               <h4>Technical Skills:</h4>
                 <ul>
                 <li><strong>Programming:</strong> Python, PHP, JavaScript ES6</li>
@@ -232,7 +232,7 @@
             </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Education <i class="bi bi-mortarboard"></i></h3>
-            <div class="resume-item">
+            <div class="resume-item  pb-0">
               <h4>Bachelor of Science</h4>
               <h5>Computer Science &amp; Engineering</h5>
               <p><em>Bangladesh University | 2021</em></p>
@@ -240,7 +240,7 @@
             </div><!-- Edn Resume Item -->
 
              <h3 class="resume-title">Certification <i class="bi bi-bookmark-heart"></i></h3>
-            <div class="resume-item">
+            <div class="resume-item  pb-0">
               <h4>Advance Web Development</h4>
               <h5>CodersTrust Bangladesh</h5>
               <p><em>December 2022 - July 2023</em></p>
@@ -258,7 +258,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
 
             <h3 class="resume-title">Projects</h3>
-            <div class="resume-item">
+            <div class="resume-item  pb-0">
               <h4>Disease Prediction System</h4>
                 <ul>
                 <li>Developed a system to predict diseases from symptoms using machine learning.</li>
@@ -283,7 +283,7 @@
             </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
+            <div class="resume-item pb-0">
               <h4>Junior Web Developer - MAC Planners & Builders Ltd</h4>
               <h5>January 2023 – Present</h5>
               <p><em>House # 60/1 (4th Floor), Road # 4/A Dhanmondi, Dhaka-1209</em></p>
@@ -297,7 +297,7 @@
 
             </div><!-- Edn Resume Item -->
 
-            <div class="resume-item">
+            <div class="resume-item  pb-0">
               <h4>LDA (Part-Time), Islami Mission, Islamic Foundation Ltd </h4>
               <h5>February 2019 – November 2021</h5>
               <p><em>Islamic Foundation, Sayed Mahbub Morshed Rd, Dhaka 1207</em></p>
@@ -330,7 +330,7 @@
             <li data-filter=".filter-app">App</li>
             <li data-filter=".filter-product">Design</li>
             <li data-filter=".filter-branding">Development</li>
-            <li data-filter=".filter-books">Wordpress</li>
+            <li data-filter=".filter-books">Paintings</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -557,12 +557,14 @@ Web Deployment & Maintenance</a></h4>
     </section><!-- /Services Section -->
 
     <!-- Testimonials Section -->
-    {{-- <section id="testimonials" class="testimonials section light-background">
+    <section id="testimonials" class="testimonials section light-background">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2 class="text-center">Testimonials</h2>
-        <p class="text-center">Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2 class="text-center">Gallery</h2>
+        <p class="text-center">It’s not just escape — it’s perspective</p>
+        <p class="text-center">My Facebook Page Here: <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"> Artsy Radia <i class="bi bi-brush-fill"></i></a></p>
+
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -599,12 +601,27 @@ Web Deployment & Maintenance</a></h4>
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                  <span>Art creates a space between reality and imagination. It slows us down, revealing details and perspectives we might otherwise miss. Through color, form, and texture, it encourages observation and reflection. It doesn’t remove us from the world, but shows it in a different light.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="assets/image/art/20210625_000143.jpg" class="testimonial-img" alt="">
+                <h3>Radia Mahbub</h3>
+                <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"><i class="bi bi-brush-fill"></i></a>
+                <h4>Acrylic Painting</h4>
+              </div>
+            </div><!-- End testimonial item  &amp; -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Art holds moments of pause in a busy world. It reframes familiar things, letting us see them freshly. Each stroke or shape carries meaning beyond words. It invites curiosity, reflection, and subtle understanding.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/image/art/20201224_232744.jpg" class="testimonial-img" alt="">
+                <h3>Radia Mahbub</h3>
+                <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"><i class="bi bi-brush-fill"></i></a>
+                <h4>Sketch Art</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -612,12 +629,13 @@ Web Deployment & Maintenance</a></h4>
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                  <span>Through art, ordinary experiences gain depth. It blends observation with imagination, structure with freedom. Art opens a quiet dialogue between the viewer and the world. It reshapes perception without forcing conclusions</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <img src="assets/image/art/20220426_131824.jpg" class="testimonial-img" alt="">
+                <h3>Radia Mahbub</h3>
+                <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"><i class="bi bi-brush-fill"></i></a>
+                <h4>Gouache Painting</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -625,12 +643,13 @@ Web Deployment & Maintenance</a></h4>
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                  <span>Art exists to make us notice what is often overlooked. It gives form to emotion, idea, and subtle detail. Through it, we experience the familiar differently. It creates perspective, reflection, and a calm, thoughtful pause</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <img src="assets/image/art/20210102_205217.jpg" class="testimonial-img" alt="">
+                <h3>Radia Mahbub</h3>
+                <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"><i class="bi bi-brush-fill"></i></a>
+                <h4>Watercolor Art</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -638,25 +657,13 @@ Web Deployment & Maintenance</a></h4>
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                  <span>Art is where imagination meets reality. It offers a chance to step back and observe more closely. It reveals hidden patterns, nuances, and possibilities. In that space, perception shifts, and understanding quietly grows.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <img src="assets/image/art/20210308_124025.jpg" class="testimonial-img" alt="">
+                <h3>Radia Mahbub</h3>
+                <a href="https://www.facebook.com/profile.php?id=100076308391726" class="facebook"><i class="bi bi-brush-fill"></i></a>
+                <h4>Wild Imagination</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -666,7 +673,7 @@ Web Deployment & Maintenance</a></h4>
 
       </div>
 
-    </section><!-- /Testimonials Section --> --}}
+    </section><!-- /Testimonials Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
@@ -779,3 +786,114 @@ Web Deployment & Maintenance</a></h4>
 
 {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> --}}
               {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.23027394723!2d90.37307517391956!3d23.739166478678108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b900047843dd%3A0xa821be27d5d58221!2sZigatola%20Bus%20Stop!5e0!3m2!1sen!2sbd!4v1770574346165!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> --}}
+{{-- <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2 class="text-center">Gallery</h2>
+        <p class="text-center">It’s not just escape — it’s perspective</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              },
+              "breakpoints": {
+                "320": {
+                  "slidesPerView": 1,
+                  "spaceBetween": 40
+                },
+                "1200": {
+                  "slidesPerView": 3,
+                  "spaceBetween": 1
+                }
+              }
+            }
+          </script>
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Saul Goodman</h3>
+                <h4>Ceo &amp; Founder</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <h3>Sara Wilsson</h3>
+                <h4>Designer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <h3>Jena Karlis</h3>
+                <h4>Store Owner</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <h3>Matt Brandon</h3>
+                <h4>Freelancer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <h3>John Larson</h3>
+                <h4>Entrepreneur</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+
+    </section><!-- /Testimonials Section --> --}}
